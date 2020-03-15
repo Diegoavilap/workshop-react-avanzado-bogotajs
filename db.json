@@ -11,6 +11,56 @@
       "id": 19
     }
   ],
+  "users": [
+    {
+      "name": "test-1",
+      "lastName": "adv-1",
+      "email": "adv-1",
+      "state": "adv-1",
+      "password": "adv-1",
+      "id": 17
+    },
+    {
+      "name": "eder",
+      "lastName": "nmr",
+      "email": "eder@gmail.com",
+      "state": "active",
+      "password": "12234",
+      "id": 19
+    },
+    {
+      "name": "eder",
+      "lastName": "buen",
+      "email": "eder@gmail.com",
+      "state": "init",
+      "password": "12234",
+      "id": 20
+    },
+    {
+      "name": "mmmm",
+      "lastName": "mmmm",
+      "email": "mmmm",
+      "state": "eder",
+      "password": "mmmmm",
+      "id": 21
+    },
+    {
+      "name": "eeee",
+      "lastName": "eeee",
+      "email": "eeee",
+      "state": "eeee",
+      "password": "eeee",
+      "id": 22
+    },
+    {
+      "name": "bbbb",
+      "lastName": "bbbb",
+      "email": "bbbb",
+      "state": "bbba",
+      "password": "bbbb",
+      "id": 23
+    }
+  ],
   "comments": [
     {
       "title": "test1",
